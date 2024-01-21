@@ -1,1 +1,1 @@
-Criação de um Site Portifólio padrão, commo exercício prático do curso de nivelemento Front-end. Tal curso de nivelemento foi liberado para preparar os alunos que participarão da Semana de Imersão Front-end da Alura.
+Criação de um Site Portifólio padrão, como exercício prático do curso de nivelemento Front-end. Tal curso de nivelemento foi liberado para preparar os alunos que participarão da Semana de Imersão Front-end da Alura.
